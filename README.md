@@ -3,7 +3,7 @@
 
 ## Education
 Bachelor in Product Design — PUC-Rio <br>
-Higher Diploma in **Data Analytics** — National College of Ireland (In progress)
+Higher Diploma in **Data Analytics** (First Class Honours) — National College of Ireland
 
 ## Projects
 [**Labour Force & Social Protection Welfare in Ireland (Python)**](https://github.com/vinikcabral/Labour-Force-Social-Welfare-in-Ireland-PYTHON)<br>
